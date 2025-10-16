@@ -45,7 +45,3 @@ predictive model. Records with high failure risk trigger an alert (simulated web
 ## Author
 Neuralic — Machine Learning & AI Automation
 
-## Notes for clients
-This is a production-pattern prototype. Neuralic can deploy this end-to-end on your GCP environment,
-replacing demo inputs with Pub/Sub, using DataflowRunner, and deploying models to Vertex AI for robust
-online scoring.
