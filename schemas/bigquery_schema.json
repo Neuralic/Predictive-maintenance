@@ -1,0 +1,26 @@
+[
+  {
+    "name": "device_id",
+    "type": "STRING"
+  },
+  {
+    "name": "ts",
+    "type": "TIMESTAMP"
+  },
+  {
+    "name": "temperature",
+    "type": "FLOAT"
+  },
+  {
+    "name": "vibration",
+    "type": "FLOAT"
+  },
+  {
+    "name": "pressure",
+    "type": "FLOAT"
+  },
+  {
+    "name": "failure_probability",
+    "type": "FLOAT"
+  }
+]

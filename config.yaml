@@ -1,0 +1,8 @@
+# Demo-safe config placeholders
+project_id: YOUR_PROJECT_ID
+topic_name: sensor-telemetry
+dataset_name: predictive_maintenance
+table_name: sensor_readings
+bucket_name: neuralic-pm-raw-logs
+region: us-central1
+alert_webhook: https://example.com/webhook

@@ -1,0 +1,4 @@
+apache-beam==2.54.0
+pandas==2.1.2
+pyyaml==6.0
+requests==2.31.0
