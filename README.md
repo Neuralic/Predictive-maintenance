@@ -1,6 +1,6 @@
 # Predictive Maintenance — Real-Time Equipment Failure Prediction (Neuralic)
 
-**Demo-safe, GCP-native prototype** showing streaming IoT ingestion, real-time
+** GCP-native prototype** showing streaming IoT ingestion, real-time
 enrichment, and model-based scoring using Google Cloud patterns (Pub/Sub → Dataflow → BigQuery → Vertex AI).
 This repo is authored and organized by Neuralic as a production-style demo.
 
